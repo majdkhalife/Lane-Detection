@@ -1,0 +1,3 @@
+/Users/majdkhalife/Desktop/Projects/Lane-Detection/build/CMakeFiles/lane_detect.dir
+/Users/majdkhalife/Desktop/Projects/Lane-Detection/build/CMakeFiles/edit_cache.dir
+/Users/majdkhalife/Desktop/Projects/Lane-Detection/build/CMakeFiles/rebuild_cache.dir

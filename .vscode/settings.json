@@ -1,0 +1,9 @@
+{
+  // Point IntelliSense at the compile commands file:
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+
+  // Match your compiler and C++ standard:
+  "C_Cpp.default.intelliSenseMode": "macos-clang-x64",
+  "C_Cpp.default.cppStandard": "c++17"
+}
+

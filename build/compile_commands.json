@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/majdkhalife/Desktop/Projects/Lane-Detection/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/Cellar/opencv/4.11.0_1/include/opencv4 -std=gnu++11 -o CMakeFiles/lane_detect.dir/src/main.cpp.o -c /Users/majdkhalife/Desktop/Projects/Lane-Detection/src/main.cpp",
+  "file": "/Users/majdkhalife/Desktop/Projects/Lane-Detection/src/main.cpp",
+  "output": "CMakeFiles/lane_detect.dir/src/main.cpp.o"
+}
+]
